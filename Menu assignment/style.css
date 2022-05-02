@@ -3,13 +3,13 @@
   box-sizing: border-box;
 }
 
-/*menu*/h1{
+h1{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/*grey boxes*/
-p { background-color: #bfbfbf;
+p {
+  background-color: #bfbfbf;
   border: 2px solid black;
   height: 150px;
   margin-right: 10px;
@@ -23,7 +23,6 @@ p { background-color: #bfbfbf;
   
 }
 
-/*chicken*/
 #p1 {
   background-color: #D59898;
   position: absolute;
@@ -37,7 +36,6 @@ p { background-color: #bfbfbf;
   font-family: Arial, Helvetica, sans-serif;
 
 }
-/*beef*/
 #p2 {
   background-color:#C14543 ;
   color: white;
@@ -52,7 +50,7 @@ p { background-color: #bfbfbf;
   font-family: Arial, Helvetica, sans-serif;
 
 }
-/*sushi*/#p3 {
+#p3 {
  background-color: #E5D198;
   position: absolute;
   top: 0;
